@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Kelly
 
-### I recenlty graduated from Lighthouse Labs as a full stack developer ✨
+##### I recenlty graduated from Lighthouse Labs as a full stack developer ✨
 <!--
 **KellyAtmore/KellyAtmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
