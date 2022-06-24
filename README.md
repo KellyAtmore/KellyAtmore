@@ -7,6 +7,7 @@
 ##### 🔭 I’m currently working on [Very Good Albums](https://www.figma.com/file/FnKAW5u8dQw7thw6NagISV/album-site?node-id=0%3A1)
 ##### 🌱 I’m currently learning React
 ##### 📫 How to reach me: kelly.atmore47@gmail.com
+##### 📄 My [Experience](https://www.canva.com/design/DAFCCUdI2R8/M48qtLgkGEcJHFEeVbTg0Q/view?utm_content=DAFCCUdI2R8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ##### ⚡ Feel free to reach out about anything!
 
 
