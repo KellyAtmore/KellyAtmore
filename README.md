@@ -1,9 +1,10 @@
-## Hello 👋 I'm Kelly
+## 👋 Hello, I'm Kelly
 
 <!--
 **KellyAtmore/KellyAtmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- I recenlty graduated from Lighthouse Labs as a full stack developer ✨
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React
