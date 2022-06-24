@@ -1,6 +1,17 @@
 ## 👋 Hello, I'm Kelly
 
-##### I recenlty graduated from Lighthouse Labs as a full stack developer ✨
+#### I recenlty graduated from Lighthouse Labs as a full stack developer ✨
+
+##### 😄 Pronouns: She/her
+
+##### 🔭 I’m currently working on (https://www.figma.com/file/FnKAW5u8dQw7thw6NagISV/album-site?node-id=0%3A1) "Very Good Albums")
+##### 🌱 I’m currently learning React
+##### 📫 How to reach me: kelly.atmore47@gmail.com
+
+
+
+
+
 <!--
 **KellyAtmore/KellyAtmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
